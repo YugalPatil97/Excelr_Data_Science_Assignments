@@ -1,10 +1,10 @@
 # Excelr_Data_Science_Assignments
 Find all EXCELR Data Science Assignment Here
-- [Assignment-Basic-Statistics-Level-1](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-1)
-- [Assignment-Basic-Statistics-Level-2-Set-1](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-1)
-- [Assignment-Basic-Statistics-Level-2-Set-2 ](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-2)
-- [Assignment-Basic-Statistics-Level-2-Set-3](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-3)
-- [Assignment-Basic-Statistics-Level-2-Set-4](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-4)
+- [Assignment_Basic-Statistics-Level-1](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-1)
+- [Assignment_Basic-Statistics-Level-2-Set-1](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-1)
+- [Assignment_Basic-Statistics-Level-2-Set-2 ](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-2)
+- [Assignment_Basic-Statistics-Level-2-Set-3](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-3)
+- [Assignment_Basic-Statistics-Level-2-Set-4](https://github.com/YugalPatil97/Assignments-Basic-Statistics-Level-2-Set-4)
 - [Assignment_Simple_Linear_Regression](https://github.com/YugalPatil97/Assignment_Simple_Linear_Regression)
 - [Assignment_Multiple_Linear_Regression_50_startups](https://github.com/YugalPatil97/Assignment_Multiple_Linear_Regression_50_startups)
 - [Assignment_Multiple_Linear_Regression_Toyota_Corolla](https://github.com/YugalPatil97/Assignment_Multiple_Linear_Regression_Toyota_Corolla)
@@ -23,3 +23,10 @@ Find all EXCELR Data Science Assignment Here
 - [Assignment_Recomdation_System](https://github.com/YugalPatil97/Assignment_Recomdation_System)
 - [Assignment_SVM](https://github.com/YugalPatil97/Assignment_SVM)
 - [Assignment_Text_Mining](https://github.com/YugalPatil97/Assignment_Text_Mining)
+
+
+
+## Thank You 🙏
+<div align="center">
+  <img src="thankyou.gif" alt="Thank You GIF" width="300px">
+</div>
