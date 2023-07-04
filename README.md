@@ -27,6 +27,5 @@ Find all EXCELR Data Science Assignment Here
 
 
 ## Thank You 🙏
-<div align="center">
-  <img src="thankyou.gif" alt="Thank You GIF" width="300px">
-</div>
+
+<p align="center">Made with ❤️ by [Yugal Patil]([https://github.com/yourusername](https://github.com/YugalPatil97)https://github.com/YugalPatil97)</p>
