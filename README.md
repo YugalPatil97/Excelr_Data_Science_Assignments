@@ -25,8 +25,9 @@ Find all EXCELR Data Science Assignment Here
 - [Assignment_Text_Mining](https://github.com/YugalPatil97/Assignment_Text_Mining)
 
 
+
 <div align="center">
-<h3>Thank You 🙏</h3>
+<h2>Thank You 🙏</h2>
 </div>
-<p align="center">Made with ❤️ by [Yugal Patil](https://github.com/YugalPatil97)
+<p align="center">Made with ❤️ by <h4>Yugal Patil</h4>
 </p>
