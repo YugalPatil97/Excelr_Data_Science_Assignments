@@ -29,5 +29,5 @@ Find all EXCELR Data Science Assignment Here
 <div align="center">
 <h2>Thank You 🙏</h2>
 </div>
-<p align="center">Made with ❤️ by <h4>Yugal Patil</h4>
+<p align="center">Made with ❤️ by <b>Yugal Patil</b>
 </p>
